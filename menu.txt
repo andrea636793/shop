@@ -2,3 +2,4 @@ Content of Menu Table
 Noodle 7000
 Hot Noodle 8000
 Fried Pork 150000
+Running a discount event
